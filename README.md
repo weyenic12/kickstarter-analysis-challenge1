@@ -6,9 +6,9 @@
 
 ## Analysis and Challenges
 
-- The data we analyzed was the outcome of the theater kickstarters and matched that with month of the year that the kickstarter was launched. Our results are here: [Theater Outcomes by Launch Date](/resources/Theater_Outcomes_vs_Launch.png) line chart. We had no challenges analyzing this date but a possible challenge or difficulty would be making sure that the correct data is being analyzed. Making sure that the theater data was the only one being analyzed and that the data for the outcomes was accurate.
+- The data we analyzed was the outcome of the theater kickstarters and matched that with month of the year that the kickstarter was launched. Our results are here: [Theater Outcomes by Launch Date](/Resources/Theater_Outcomes_vs_Launch.png) line chart. We had no challenges analyzing this date but a possible challenge or difficulty would be making sure that the correct data is being analyzed. Making sure that the theater data was the only one being analyzed and that the data for the outcomes was accurate.
 
-- The data we analyzed next was for the outcomes of the plays kickstarters and matched that with the amount of the goal that was desired at the launch of the kickstarter.. Our results are here: [Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png) line chart. Again, we had no challenges other than making sure that the data was correct and that the right data was being analyzed.
+- The data we analyzed next was for the outcomes of the plays kickstarters and matched that with the amount of the goal that was desired at the launch of the kickstarter.. Our results are here: [Outcomes Based on Goals](/Resources/Outcomes_vs_Goals.png) line chart. Again, we had no challenges other than making sure that the data was correct and that the right data was being analyzed.
 
 ## Results
 
